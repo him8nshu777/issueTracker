@@ -1,8 +1,14 @@
+Working Video:
+https://github.com/user-attachments/assets/4b87143f-9b35-467e-80a8-78baba8efaa3
+
 1. Clone the Repository
 
 How to Run Backend
 1. Navigate to backend folder
 cd backend
+
+
+
 
 2. Create Virtual Environment
 python -m venv venv
